@@ -1,6 +1,6 @@
 ---
-title: "Frank Hermosillo"
-image: "frank.jpg"
+title: "Carlos Michel Mourra Díaz"
+image: "Mi_foto.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
