@@ -16,25 +16,22 @@ output:
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Nacido en Monterrey, N.L, actualmente estudiante de genómicas con futuras aspiraciones.
+Me gusta tocar el piano, hacer deporte, aprender cosas y realizar trabajos que impliquen un desafio.
 
-## Education
+## Educación
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**Universidad Nacional Autonoma de México** | Cuernavaca, Mor
 
-Ph.D. in Computer Science | September 2009 - May 2014
+Licenciatura en Ciencias Genómicas | Septiembre 2019 - Actualidad
 
-**The University of California, Berkeley** | Berkeley, CA
 
-B.S. in Computer Science | September 2005 - May 2009
+## Programador
 
-## Experience
+**Python** | Desarrollo de sowtware | 
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**R** | Análisis estadístico | 
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+**C** | Programación procedural |
+
+**Bash** | Manejo de datos |
